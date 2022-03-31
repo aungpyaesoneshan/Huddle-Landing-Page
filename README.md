@@ -18,7 +18,10 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
+Users should be able to:
+
+- View the optimal layout for the page depending on their device's screen size
+- See hover states for all interactive elements on the page
 
 ### Screenshot
 ![FireShot Capture 013 - Huddle Landing Page - happycloud250 github io](https://user-images.githubusercontent.com/72793369/161110798-90b19f1a-9914-459e-9c3d-05fcae28a2b1.jpg)
