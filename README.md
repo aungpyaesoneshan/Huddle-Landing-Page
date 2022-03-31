@@ -21,6 +21,8 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
+![FireShot Capture 013 - Huddle Landing Page - happycloud250 github io](https://user-images.githubusercontent.com/72793369/161110798-90b19f1a-9914-459e-9c3d-05fcae28a2b1.jpg)
+![FireShot Capture 015 - Huddle Landing Page - happycloud250 github io](https://user-images.githubusercontent.com/72793369/161110805-58205897-c88e-4797-a8d1-b82338f7f40e.jpg)
 
 ### Links
 
