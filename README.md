@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Happycloud250/Huddle-Landing-Page]
-- Live Site URL: [https://happycloud250.github.io/Huddle-Landing-Page/]
+- Solution URL: [https://github.com/aungpyaesoneshan/Huddle-Landing-Page]
+- Live Site URL: [https://aungpyaesoneshan.github.io/Huddle-Landing-Page/]
 
 ## My process
 
